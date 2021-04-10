@@ -3,7 +3,8 @@ import pyautogui as pg
 #to move the mouse to the desired coordinates
 pg.moveTo(211,23,4)
 
-
+#just a print statement 
+print("look at your mouse, it is moving by it self ^^ ")
 
 #to click the right button of the mouse
 pg.click(button='right')
