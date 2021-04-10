@@ -4,8 +4,6 @@ import pyautogui as pg
 pg.moveTo(211,23,4)
 
 
-#just a print statement 
-print("look at your mouse moving by it self ^^ ")
 
 #to click the right button of the mouse
 pg.click(button='right')
